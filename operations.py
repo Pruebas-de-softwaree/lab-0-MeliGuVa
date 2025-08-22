@@ -34,6 +34,7 @@ if __name__ == "__main__":
     #Suma
     print(add(5,8))
     print(add(-5,8))
+    print(add("a","b"))
 
     #Resta
     print(subtract(-5,8))
@@ -46,9 +47,14 @@ if __name__ == "__main__":
     #Divide
     #print(divide(5,0))
     print(divide(0,5))
+    print(divide(3,5))
 
     #Power
     print(power(5,2))
+    print(power(2,-2))
+
+    #Raíz
+    #print(square_root(-6))
 
     print("end test")
 
