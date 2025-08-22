@@ -55,6 +55,15 @@ if __name__ == "__main__":
 
     #Raíz
     #print(square_root(-6))
+    print(square_root(2.5))
+
+    #average
+    print(average([0.5,0.6,0.5]))
+    print(average([-6,3,9]))
+
+    #maximum
+    print(maximum([0.5,0.2,0.3]))
+    print(maximum([1,-5,6]))
 
     print("end test")
 
