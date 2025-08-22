@@ -52,6 +52,7 @@ if __name__ == "__main__":
     #Power
     print(power(5,2))
     print(power(2,-2))
+    #print(power(2,0.5))
 
     #Raíz
     #print(square_root(-6))
